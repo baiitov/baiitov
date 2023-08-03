@@ -1,5 +1,5 @@
 <h1 align="center">I'm Bilal</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan </h3>
+<h3 align="center">I'm Frontend Developer by Day, Adventure Seeker by Night | Building Websites and Cherishing Every Moment </h3>
 
  
 - 🔭 I’m currently working on [IT_KG](https://github.com/EpicZuko/IT_KG_WEBSITE_SCHOOL)
